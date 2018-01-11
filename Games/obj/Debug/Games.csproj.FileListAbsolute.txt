@@ -1,0 +1,5 @@
+F:\新建文件夹\新建文件夹\Games\Games\bin\Games.dll
+F:\新建文件夹\新建文件夹\Games\Games\bin\Games.pdb
+F:\新建文件夹\新建文件夹\Games\Games\obj\Debug\Games.csprojResolveAssemblyReference.cache
+F:\新建文件夹\新建文件夹\Games\Games\obj\Debug\Games.dll
+F:\新建文件夹\新建文件夹\Games\Games\obj\Debug\Games.pdb
